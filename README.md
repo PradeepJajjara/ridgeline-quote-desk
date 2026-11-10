@@ -1,6 +1,7 @@
 # Ridgeline Quote Desk
 
 ## Repository
+https://github.com/PradeepJajjara/ridgeline-quote-desk.git
 
 ## How to Run
 1. Copy `.env.example` to `.env` and add your `ANTHROPIC_API_KEY`.
