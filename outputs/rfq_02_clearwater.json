@@ -1,0 +1,80 @@
+{
+ "rfq_id": "rfq_02_clearwater",
+ "customer_id": "C1007",
+ "customer_name": "Clearwater Bottling Co.",
+ "lines": [
+  {
+   "line": 1,
+   "as_written": "APX-BB-6206ZZ Ball bearing 6206 ZZ shielded",
+   "quantity": 12,
+   "unit": "EA",
+   "ridgeline_part_number": "RL178907",
+   "match_method": "cross_reference",
+   "confidence": 0.95,
+   "needs_review": false,
+   "flags": []
+  },
+  {
+   "line": 2,
+   "as_written": "APX-VB-B55 V-belt B55",
+   "quantity": 4,
+   "unit": "EA",
+   "ridgeline_part_number": "RL125203",
+   "match_method": "cross_reference",
+   "confidence": 0.95,
+   "needs_review": false,
+   "flags": []
+  },
+  {
+   "line": 3,
+   "as_written": "APX-HF-JIC08-90 JIC -08 x 1/2 NPT 90 elbow",
+   "quantity": 25,
+   "unit": "EA",
+   "ridgeline_part_number": "RL120374",
+   "match_method": "cross_reference",
+   "confidence": 0.95,
+   "needs_review": true,
+   "flags": [
+    "discontinued_replaced"
+   ]
+  },
+  {
+   "line": 4,
+   "as_written": "APX-FL-HE10 Hyd. return element 10 micron cellulose",
+   "quantity": 6,
+   "unit": "EA",
+   "ridgeline_part_number": "RL194646",
+   "match_method": "description",
+   "confidence": 0.66,
+   "needs_review": true,
+   "flags": [
+    "ambiguous_match"
+   ]
+  },
+  {
+   "line": 5,
+   "as_written": "APX-GL-A4-L Cut resistant glove A4, Large",
+   "quantity": 12,
+   "unit": "PR",
+   "ridgeline_part_number": "RL131850",
+   "match_method": "cross_reference",
+   "confidence": 0.95,
+   "needs_review": false,
+   "flags": []
+  },
+  {
+   "line": 6,
+   "as_written": "APX-BV-SS100 1\" ball valve, 316 SS, full port",
+   "quantity": 3,
+   "unit": "EA",
+   "ridgeline_part_number": "RL185180",
+   "match_method": "cross_reference",
+   "confidence": 0.95,
+   "needs_review": false,
+   "flags": []
+  }
+ ],
+ "non_item_rows": [
+  "Ship to: Plant 1 receiving dock. Terms per contract."
+ ]
+}

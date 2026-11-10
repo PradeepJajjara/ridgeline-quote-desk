@@ -1,0 +1,89 @@
+{
+ "rfq_id": "rfq_06_messy",
+ "customer_id": "C1008",
+ "customer_name": "Granite Peak Mining",
+ "lines": [
+  {
+   "line": 1,
+   "as_written": "bolts 3/8 x 1 1/2 gr5 - 300",
+   "quantity": 300,
+   "unit": null,
+   "ridgeline_part_number": "RL109016",
+   "match_method": "description",
+   "confidence": 0.7,
+   "needs_review": true,
+   "flags": [
+    "ambiguous_match"
+   ]
+  },
+  {
+   "line": 2,
+   "as_written": "nitrile gloves L - a few boxes",
+   "quantity": null,
+   "unit": "BX",
+   "ridgeline_part_number": null,
+   "match_method": null,
+   "confidence": 0.0,
+   "needs_review": true,
+   "flags": [
+    "ambiguous_quantity",
+    "no_match"
+   ]
+  },
+  {
+   "line": 3,
+   "as_written": "NF-778812 x 4 (whatever you have thats equivalent)",
+   "quantity": 4,
+   "unit": "EA",
+   "ridgeline_part_number": null,
+   "match_method": null,
+   "confidence": 0.0,
+   "needs_review": true,
+   "flags": [
+    "no_match"
+   ]
+  },
+  {
+   "line": 4,
+   "as_written": "6205 bearings sealed qty 24",
+   "quantity": 24,
+   "unit": "EA",
+   "ridgeline_part_number": "RL104165",
+   "match_method": "description",
+   "confidence": 0.7,
+   "needs_review": true,
+   "flags": [
+    "ambiguous_match"
+   ]
+  },
+  {
+   "line": 5,
+   "as_written": "forklift tires 18x7-8 x4",
+   "quantity": 4,
+   "unit": "EA",
+   "ridgeline_part_number": null,
+   "match_method": null,
+   "confidence": 0.0,
+   "needs_review": true,
+   "flags": [
+    "no_match"
+   ]
+  },
+  {
+   "line": 6,
+   "as_written": "o-rings 214 buna",
+   "quantity": null,
+   "unit": null,
+   "ridgeline_part_number": null,
+   "match_method": null,
+   "confidence": 0.0,
+   "needs_review": true,
+   "flags": [
+    "no_match"
+   ]
+  }
+ ],
+ "non_item_rows": [
+  "need asap for the crusher rebuild"
+ ]
+}

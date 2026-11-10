@@ -1,0 +1,16 @@
+{
+ "threshold": 0.8,
+ "extraction_accuracy": 0.8421,
+ "match_precision": 0.8824,
+ "match_recall": 0.8824,
+ "additional_metrics": {
+  "review_rate": 0.4211,
+  "auto_approved_precision": 1.0,
+  "accuracy_by_match_method": {
+   "cross_reference": 1.0,
+   "description": 0.6,
+   "null": 0.5,
+   "ridgeline_part_number": 1.0
+  }
+ }
+}

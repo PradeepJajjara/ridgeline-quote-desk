@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python \"C:/Users/jajja/AppData/Local/Temp/claude/e--Persona-interview-fulstack-repo/2ecbf0bd-2549-4442-8b3f-75d7572243af/scratchpad/measure.py\")",
+      "Bash(PYTHONPATH=\"e:/Persona/interview/fulstack/repo\" python \"C:/Users/jajja/AppData/Local/Temp/claude/e--Persona-interview-fulstack-repo/2ecbf0bd-2549-4442-8b3f-75d7572243af/scratchpad/measure.py\")",
+      "Skill(claude-api)",
+      "Skill(claude-api:*)",
+      "Bash(python -c ' *)"
+    ]
+  }
+}
